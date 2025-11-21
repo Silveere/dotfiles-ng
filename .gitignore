@@ -2,4 +2,8 @@ result
 result-*
 .direnv/
 
+# Declarative pre-commit hooks
 /.pre-commit-config.yaml
+
+# Neovim
+Session.vim
